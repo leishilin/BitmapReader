@@ -1,3 +1,2 @@
-# Hello_world
-my first repository
-hello!
+# BitmapReader
+a simple reader of bitmaps.
